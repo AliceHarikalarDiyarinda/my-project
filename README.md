@@ -1,1 +1,1 @@
-# my-project
+# aws-my-projects
